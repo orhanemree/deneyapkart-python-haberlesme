@@ -15,6 +15,9 @@ $ python main.py
 # 🧮 Şema
 <img src="./scheme.jpg" alt="deneyapkart python haberleşme">
 
+### ⚠️ Düzeltme:
+Potansiyometreye giden kablo A0 pinine, ışık sensörüne giden kablo A1 pinine bağlanmalıdır.
+
 # 🎉 Özellikler
 * 3 renk lede dijital veri yaz.
 * Butondan dijital okuma yap.
