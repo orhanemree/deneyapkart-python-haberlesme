@@ -1,5 +1,5 @@
-# Deneyap Kart Python Haberleşme
-📟 Python terminalden deneyapkart input-output işlemi - seri haberleşme örneği.
+# 📟 Deneyap Kart Python Haberleşme
+Python terminalden deneyapkart input-output işlemleri - seri haberleşme örneği.
 
 # 🧐 Kullanım
 * Python, Arduino IDE ve Deneyap Kart kütüphanesi'nin bilgisayarınızda kurulu olduğundan emin olun.
@@ -13,10 +13,10 @@ $ python main.py
 ```
 
 # 🧮 Şema
-<img src="./sheme.jpg" alt="deneyapkart python haberleşme">
+<img src="./scheme.jpg" alt="deneyapkart python haberleşme">
 
 # 🎉 Özellikler
-* 3 renk lede dijital veri gönder.
+* 3 renk lede dijital veri yaz.
 * Butondan dijital okuma yap.
 * Potansiyometreden analog okuma yap.
 * Işık sensöründen analog okuma yap.
